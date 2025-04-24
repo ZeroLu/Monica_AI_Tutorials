@@ -1,6 +1,5 @@
 # Monica AI Tutorials - 多语言AI文本人性化指南
 
-![Monica AI Humanizer Banner](https://monica.im/static/images/monica-logo.svg)
 
 ## 仓库简介
 
