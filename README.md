@@ -20,25 +20,25 @@
 以下是本仓库中提供的所有教程的永久链接，按语言分类：
 
 ### 简体中文
-- [如何免费Humanize AI文本 | Monica AI Humanizer完全指南 | 绕过GPTZero检测](https://github.com/ZeroLu/Monica_AI_Tutorials/blob/cac37266e47a1e7e70036bd237dd672b30b6a797/archive/%E3%80%902025%E6%9C%80%E6%96%B0%E3%80%91%E5%A6%82%E4%BD%95%E5%85%8D%E8%B4%B9%E5%8E%BB%E9%99%A4%E6%96%87%E6%9C%ACAI%E5%91%B3.md)
+- [如何免费Humanize AI文本 | Monica AI Humanizer完全指南 | 绕过GPTZero检测](https://github.com/ZeroLu/Monica_AI_Tutorials/blob/main/archive/%E3%80%902025%E6%9C%80%E6%96%B0%E3%80%91%E5%A6%82%E4%BD%95%E5%85%8D%E8%B4%B9%E5%8E%BB%E9%99%A4%E6%96%87%E6%9C%ACAI%E5%91%B3.md)
 
 ### 繁体中文
-- [如何免費Humanize AI文本 | Monica AI Humanizer完全指南 | 繞過GPTZero檢測](https://github.com/ZeroLu/Monica_AI_Tutorials/blob/cac37266e47a1e7e70036bd237dd672b30b6a797/archive/%E3%80%902025%E6%9C%80%E6%96%B0%E3%80%91%E5%A6%82%E4%BD%95%E5%85%8D%E8%B2%BBHumanize%20AI%E6%96%87%E6%9C%AC.md)
+- [如何免費Humanize AI文本 | Monica AI Humanizer完全指南 | 繞過GPTZero檢測](https://github.com/ZeroLu/Monica_AI_Tutorials/blob/main/archive/%E3%80%902025%E6%9C%80%E6%96%B0%E3%80%91%E5%A6%82%E4%BD%95%E5%85%8D%E8%B2%BBHumanize%20AI%E6%96%87%E6%9C%AC.md)
 
 ### 西班牙语 (Español)
-- [Cómo humanizar texto AI gratis | Guía completa de Monica AI Humanizer | Evitar la detección de GPTZero](https://github.com/ZeroLu/Monica_AI_Tutorials/blob/cac37266e47a1e7e70036bd237dd672b30b6a797/archive/%5BLo%20%C3%BAltimo%202025%5D%20C%C3%B3mo%20humanizar%20texto%20de%20IA%20gratis.md)
+- [Cómo humanizar texto AI gratis | Guía completa de Monica AI Humanizer | Evitar la detección de GPTZero](https://github.com/ZeroLu/Monica_AI_Tutorials/blob/main/archive/%5BLo%20%C3%BAltimo%202025%5D%20C%C3%B3mo%20humanizar%20texto%20de%20IA%20gratis.md)
 
 ### 法语 (Français)
-- [Comment humaniser gratuitement le texte IA | Guide complet de Monica AI Humanizer | Contourner la détection GPTZero](https://github.com/ZeroLu/Monica_AI_Tutorials/blob/cac37266e47a1e7e70036bd237dd672b30b6a797/archive/%5B2025%20Derni%C3%A8re%20mise%20%C3%A0%20jour%5D%20Comment%20humaniser%20gratuitement%20le%20texte%20IA.md)
+- [Comment humaniser gratuitement le texte IA | Guide complet de Monica AI Humanizer | Contourner la détection GPTZero](https://github.com/ZeroLu/Monica_AI_Tutorials/blob/main/archive/%5B2025%20Derni%C3%A8re%20mise%20%C3%A0%20jour%5D%20Comment%20humaniser%20gratuitement%20le%20texte%20IA.md)
 
 ### 德语 (Deutsch)
-- [Wie man AI-Text kostenlos humanisiert | Kompletter Leitfaden zu Monica AI Humanizer | GPTZero-Erkennung umgehen](https://github.com/ZeroLu/Monica_AI_Tutorials/blob/cac37266e47a1e7e70036bd237dd672b30b6a797/archive/%5B2025%20Aktualisiert%5D%20Wie%20man%20AI-Text%20kostenlos%20humanisiert.md)
+- [Wie man AI-Text kostenlos humanisiert | Kompletter Leitfaden zu Monica AI Humanizer | GPTZero-Erkennung umgehen](https://github.com/ZeroLu/Monica_AI_Tutorials/blob/main/archive/%5B2025%20Aktualisiert%5D%20Wie%20man%20AI-Text%20kostenlos%20humanisiert.md)
 
 ### 意大利语 (Italiano)
 - [Come umanizzare gratuitamente il testo AI | Guida completa a Monica AI Humanizer | Aggirare il rilevamento GPTZero](https://github.com/ZeroLu/Monica_AI_Tutorials/blob/cac37266e47a1e7e70036bd237dd672b30b6a797/archive/%5B2025%20Ultimo%20aggiornamento%5D%20Come%20umanizzare%20gratuitamente%20il%20testo%20AI.md)
 
 ### 日语 (日本語)
-- [AIテキストを無料で人間らしくする方法 | Monica AI Humanizerの完全ガイド | GPTZero検出を回避](https://github.com/ZeroLu/Monica_AI_Tutorials/blob/cac37266e47a1e7e70036bd237dd672b30b6a797/archive/%E3%80%902025%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91AI%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%92%E7%84%A1%E6%96%99%E3%81%A7%E4%BA%BA%E9%96%93%E3%82%89%E3%81%97%E3%81%8F%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95.md)
+- [AIテキストを無料で人間らしくする方法 | Monica AI Humanizerの完全ガイド | GPTZero検出を回避](https://github.com/ZeroLu/Monica_AI_Tutorials/blob/main/archive/%E3%80%902025%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91AI%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%92%E7%84%A1%E6%96%99%E3%81%A7%E4%BA%BA%E9%96%93%E3%82%89%E3%81%97%E3%81%8F%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95.md)
 
 ## 主要内容
 
